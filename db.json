@@ -1,0 +1,1729 @@
+{
+  "categories": [
+    { "cat_id": 1, "name": "Sofas & Chairs" },
+
+    { "cat_id": 2, "name": "Dining Room" },
+
+    { "cat_id": 3, "name": "Outdoor Room" },
+
+    { "cat_id": 4, "name": "Living Room" },
+
+    { "cat_id": 5, "name": "Estilo" },
+
+    { "cat_id": 6, "name": "Living Chair" },
+
+    { "cat_id": 7, "name": "New Sofas" }
+  ],
+
+  "sub_categories": [
+    { "subcat_id": 101, "cat_id": 1, "name": "Living Chairs" },
+
+    { "subcat_id": 102, "cat_id": 1, "name": "Sofa" },
+
+    { "subcat_id": 103, "cat_id": 1, "name": "Storage" },
+
+    { "subcat_id": 101, "cat_id": 2, "name": "Dining Table" },
+
+    { "subcat_id": 102, "cat_id": 2, "name": "Dining Sets" },
+
+    { "subcat_id": 103, "cat_id": 2, "name": "Dining Chairs" }
+  ],
+
+  "sub_sub_categories": [
+    { "sub_subcat_id": 1001, "subcat_id": 101, "cat_id": 1, "name": "Sofas" },
+
+    {
+      "sub_subcat_id": 1002,
+
+      "subcat_id": 101,
+
+      "cat_id": 1,
+
+      "name": "Armchairs"
+    },
+
+    {
+      "sub_subcat_id": 1003,
+
+      "subcat_id": 101,
+
+      "cat_id": 1,
+
+      "name": "Dining Chairs & Benches"
+    },
+
+    {
+      "sub_subcat_id": 1004,
+
+      "subcat_id": 101,
+
+      "cat_id": 1,
+
+      "name": "Desk Chairs"
+    },
+
+    {
+      "sub_subcat_id": 1005,
+
+      "subcat_id": 101,
+
+      "cat_id": 1,
+
+      "name": "Ottomans & Footstools"
+    },
+
+    {
+      "sub_subcat_id": 1001,
+
+      "subcat_id": 102,
+
+      "cat_id": 1,
+
+      "name": "Dining Tables"
+    },
+
+    {
+      "sub_subcat_id": 1002,
+
+      "subcat_id": 102,
+
+      "cat_id": 1,
+
+      "name": "Dining Chairs"
+    },
+
+    {
+      "sub_subcat_id": 1003,
+
+      "subcat_id": 102,
+
+      "cat_id": 1,
+
+      "name": "Sideboards"
+    },
+
+    {
+      "sub_subcat_id": 1004,
+
+      "subcat_id": 102,
+
+      "cat_id": 1,
+
+      "name": "Coffee Tables"
+    },
+
+    {
+      "sub_subcat_id": 1005,
+
+      "subcat_id": 102,
+
+      "cat_id": 1,
+
+      "name": "Dressing Tables"
+    },
+
+    {
+      "sub_subcat_id": 1001,
+
+      "subcat_id": 103,
+
+      "cat_id": 1,
+
+      "name": "Chairs & Sofas"
+    },
+
+    { "sub_subcat_id": 1002, "subcat_id": 103, "cat_id": 1, "name": "Tables" },
+
+    { "sub_subcat_id": 1003, "subcat_id": 103, "cat_id": 1, "name": "Sets" },
+
+    {
+      "sub_subcat_id": 1001,
+
+      "subcat_id": 101,
+
+      "cat_id": 2,
+
+      "name": "dining2-1-1"
+    },
+
+    {
+      "sub_subcat_id": 1002,
+
+      "subcat_id": 101,
+
+      "cat_id": 2,
+
+      "name": "dining2-1-2"
+    },
+
+    {
+      "sub_subcat_id": 1003,
+
+      "subcat_id": 101,
+
+      "cat_id": 2,
+
+      "name": "dining2-1-3"
+    },
+
+    {
+      "sub_subcat_id": 1004,
+
+      "subcat_id": 101,
+
+      "cat_id": 2,
+
+      "name": "dining2-1-4"
+    },
+
+    {
+      "sub_subcat_id": 1005,
+
+      "subcat_id": 101,
+
+      "cat_id": 2,
+
+      "name": "din2-1-5"
+    },
+
+    {
+      "sub_subcat_id": 1001,
+
+      "subcat_id": 102,
+
+      "cat_id": 2,
+
+      "name": "dining2-2-1"
+    },
+
+    {
+      "sub_subcat_id": 1002,
+
+      "subcat_id": 102,
+
+      "cat_id": 2,
+
+      "name": "dining2-2-2"
+    },
+
+    {
+      "sub_subcat_id": 1003,
+
+      "subcat_id": 102,
+
+      "cat_id": 2,
+
+      "name": "dining2-2-3"
+    },
+
+    {
+      "sub_subcat_id": 1004,
+
+      "subcat_id": 102,
+
+      "cat_id": 2,
+
+      "name": "dining2-2-4"
+    },
+
+    {
+      "sub_subcat_id": 1005,
+
+      "subcat_id": 102,
+
+      "cat_id": 2,
+
+      "name": "dining2-2-5"
+    },
+
+    {
+      "sub_subcat_id": 1006,
+
+      "subcat_id": 102,
+
+      "cat_id": 2,
+
+      "name": "dining2-2-6"
+    },
+
+    {
+      "sub_subcat_id": 1007,
+
+      "subcat_id": 102,
+
+      "cat_id": 2,
+
+      "name": "dining2-2-7"
+    },
+
+    {
+      "sub_subcat_id": 1008,
+
+      "subcat_id": 102,
+
+      "cat_id": 2,
+
+      "name": "dining2-2-8"
+    },
+
+    {
+      "sub_subcat_id": 1001,
+
+      "subcat_id": 103,
+
+      "cat_id": 2,
+
+      "name": "dining2-3-1"
+    },
+
+    {
+      "sub_subcat_id": 1002,
+
+      "subcat_id": 103,
+
+      "cat_id": 2,
+
+      "name": "dining2-3-2"
+    },
+
+    {
+      "sub_subcat_id": 1003,
+
+      "subcat_id": 103,
+
+      "cat_id": 2,
+
+      "name": "dining2-3-3"
+    }
+  ],
+
+  "products": [
+    {
+      "productId": "1",
+
+      "cat_id": 1,
+
+      "sub_subcat_id": 1001,
+
+      "subcat_id": 101,
+
+      "type": "Sofas-1-101-1",
+
+      "defaultPrice": 60.60,
+
+      "defaultImageUrl": 
+        "https://demo.posthemes.com/pos_pataku/layout2/29-home_default/rival-field-messenger.jpg"
+      ,
+
+      "description": "Regular fit, round neckline, long sleeves. 100% cotton, brushed inner side for extra comfort.",
+      "name": "Crown Summit Backpack",
+      "star": 3.8,
+      "review": 1,
+      "reference": "demo_3",
+      "brand": "Graphic corner",
+      "variants": [
+        { "size": "40x60cm", "price": 60.60},
+        { "size": "60x90cm", "price": 70.50 },
+        { "size": "80x120cm", "price": 80.30}
+      ],
+      "images": [
+        "https://demo.posthemes.com/pos_pataku/layout2/29-home_default/rival-field-messenger.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/40-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/41-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/42-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/43-cart_default/crown-summit-backpack.jpg"
+      ],
+      
+      "newArrival": false
+    },
+
+    {
+      "productId": "2",
+
+      "cat_id": 1,
+
+      "sub_subcat_id": 1002,
+
+      "subcat_id": 101,
+
+      "type": "Armchair-1-101-2",
+
+      "defaultPrice": 75.90,
+
+      "defaultImageUrl":
+        "https://demo.posthemes.com/pos_pataku/layout2/39-home_default/crown-summit-backpack.jpg"
+      ,
+
+      "description": "Try Comfort With customizer",
+      "name": "Crown Summit Backpack",
+      "star": 3.8,
+      "review": 1,
+      "reference": "demo_3",
+      "brand": "Graphic corner",
+      "variants": [
+        { "size": "40x60cm", "price": 75.90 },
+        { "size": "60x90cm", "price": 85.60 },
+        { "size": "80x120cm", "price": 95.70 }
+      ],
+      "images": [
+        "https://demo.posthemes.com/pos_pataku/layout2/39-large_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/40-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/41-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/42-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/43-cart_default/crown-summit-backpack.jpg"
+      ],
+
+      "newArrival": true
+    },
+
+    {
+      "productId":"3",
+
+      "cat_id": 1,
+
+      "sub_subcat_id": 1001,
+
+      "subcat_id": 101,
+
+      "type": "Sofas-1-101-1",
+
+      "defaultPrice": 45.50,
+
+      "defaultImageUrl": 
+        "https://demo.posthemes.com/pos_pataku/layout2/44-home_default/field-messenger.jpg"
+      ,
+
+      "description": "Try Comfort With customizer",
+      "name": "Field Messanger",
+      "star": 1,
+      "review": 11,
+      "reference": "demo_3",
+      "brand": "Studio Design",
+      "variants": [
+        { "size": "40x60cm", "price": 45.50 },
+        { "size": "60x90cm", "price": 55.80 },
+        { "size": "80x120cm", "price": 65.40 }
+      ],
+      "images": [
+        "https://demo.posthemes.com/pos_pataku/layout2/44-home_default/field-messenger.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/40-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/41-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/42-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/43-cart_default/crown-summit-backpack.jpg"
+      ],
+
+      "newArrival": false
+    },
+
+    {
+      "productId": "4",
+
+      "cat_id": 1,
+
+      "sub_subcat_id": 1002,
+
+      "subcat_id": 101,
+
+      "type": "Armchair-1-101-2",
+
+      "defaultPrice": 65.90,
+
+      "defaultImageUrl": 
+        "https://demo.posthemes.com/pos_pataku/layout2/59-home_default/affirm-water-bottle.jpg"
+      ,
+
+      "description": "Try Comfort With customizer",
+      "name": "Field Messanger",
+      "star": 1,
+      "review": 11,
+      "reference": "demo_3",
+      "brand": "Graphic corner",
+      "variants": [
+        { "size": "S", "price": 65.90 },
+        { "size": "M", "price": 75.78 },
+        { "size": "L", "price": 85.67 },
+        { "size": "XL", "price": 95.87 }
+      ],
+      "images": [
+        "https://demo.posthemes.com/pos_pataku/layout2/59-home_default/affirm-water-bottle.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/40-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/41-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/42-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/43-cart_default/crown-summit-backpack.jpg"
+      ],
+
+      "newArrival": true
+
+    },
+
+    {
+      "productId":"5",
+
+      "cat_id": 1,
+
+      "sub_subcat_id": 1003,
+
+      "subcat_id": 101,
+
+      "type": "Sofas-1-101-3",
+
+      "defaultPrice": 60.60,
+
+      "defaultImageUrl": 
+        "https://demo.posthemes.com/pos_pataku/layout2/64-home_default/dual-handle-cardio-ball.jpg"
+      ,
+
+      "description": "Try Comfort With customizer",
+      "name": "Field Messanger21",
+      "star": 1,
+      "review": 11,
+      "reference": "demo_3",
+      "brand": "Studio Design",
+      "variants": [
+        { "size": "S", "price": 60.60 },
+        { "size": "M", "price": 70.30 },
+        { "size": "L", "price": 80.78 },
+        { "size": "XL", "price": 90.65 }
+      ],
+      "images": [
+        "https://demo.posthemes.com/pos_pataku/layout2/64-home_default/dual-handle-cardio-ball.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/40-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/41-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/42-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/43-cart_default/crown-summit-backpack.jpg"
+      ],
+
+
+      "newArrival": false
+    },
+
+    {
+      "productId": "6",
+
+      "cat_id": 1,
+
+      "sub_subcat_id": 1003,
+
+      "subcat_id": 101,
+
+      "type": "Sofas-1-101-3",
+
+      "defaultPrice": 50.30,
+
+      "defaultImageUrl": 
+        "https://demo.posthemes.com/pos_pataku/layout2/69-home_default/go-get-r-pushup-grips.jpg"
+      ,
+
+      "description": "Try Comfort With customizer",
+
+      "name": "Field Messanger21",
+      "star": 4,
+      "review": 21,
+      "reference": "demo_3",
+      "brand": "Graphic corner",
+      "variants": [
+        { "size": "S", "price": 50.30},
+        { "size": "M", "price": 60.10 },
+        { "size": "L", "price": 70.20 },
+        { "size": "XL", "price": 80.67 }
+      ],
+      "images": [
+        "https://demo.posthemes.com/pos_pataku/layout2/69-home_default/go-get-r-pushup-grips.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/40-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/41-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/42-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/43-cart_default/crown-summit-backpack.jpg"
+      ],
+
+      "newArrival": true
+    },
+
+    {
+      "productId": "7",
+
+      "cat_id": 1,
+
+      "sub_subcat_id": 1004,
+
+      "subcat_id": 101,
+
+      "type": "Sofas-1-101-4",
+
+      "defaultPrice": 61.01,
+
+      "defaultImageUrl": 
+        "https://demo.posthemes.com/pos_pataku/layout2/39-large_default/crown-summit-backpack.jpg"
+      ,
+
+      "description": "Try Comfort With customizer",
+      "name": "Field Messanger",
+      "star": 2.5,
+      "review": 11,
+      "reference": "demo_3",
+      "brand": "Studio Design",
+      "variants": [
+        { "size": "40x60cm", "price": 61.01 },
+        { "size": "60x90cm", "price": 71.05 },
+        { "size": "80x120cm", "price": 81.06 }
+      ],
+      "images": [
+        "https://demo.posthemes.com/pos_pataku/layout2/39-large_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/40-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/41-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/42-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/43-cart_default/crown-summit-backpack.jpg"
+      ],
+
+
+      "newArrival": false
+    },
+
+    {
+      "productId": "8",
+
+      "cat_id": 1,
+
+      "sub_subcat_id": 1005,
+
+      "subcat_id": 101,
+
+      "type": "Sofas-1-101-5",
+
+      "defaultPrice": 75.90,
+
+      "defaultImageUrl": 
+        "https://demo.posthemes.com/pos_pataku/layout2/91-home_default/aim-analog.jpg"
+      ,
+
+      "description": "Try Comfort With customizer",
+      "name": "Field Messanger",
+      "star": 2.5,
+      "review": 11,
+      "reference": "demo_3",
+      "brand": "Graphic corner",
+      "variants": [
+        { "size": "40x60cm", "price": 75.90 },
+        { "size": "60x90cm", "price": 85.80 },
+        { "size": "80x120cm", "price": 95.60 }
+      ],
+      "images": [
+        "https://demo.posthemes.com/pos_pataku/layout2/91-home_default/aim-analog.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/40-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/41-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/42-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/43-cart_default/crown-summit-backpack.jpg"
+      ],
+
+
+      "newArrival": true
+    },
+
+    {
+      "productId": "9",
+
+      "cat_id": 1,
+
+      "sub_subcat_id": 1001,
+
+      "subcat_id": 102,
+
+      "type": "Sofas-1-102-1",
+
+      "defaultPrice": 45.50,
+
+      "defaultImageUrl": 
+        "https://demo.posthemes.com/pos_pataku/layout2/93-home_default/crown-summit-backpack4.jpg"
+      ,
+
+      "description": "Try Comfort With customizer",
+      "name": "Field Messanger",
+      "star": 3.5,
+      "review": 31,
+      "reference": "demo_6",
+      "brand": "Studio Design",
+      "variants": [
+        { "size": "40x60cm", "price": 45.50 },
+        { "size": "60x90cm", "price": 55.60},
+        { "size": "80x120cm", "price": 65.70 }
+      ],
+      "images": [
+        "https://demo.posthemes.com/pos_pataku/layout2/93-home_default/crown-summit-backpack4.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/40-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/41-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/42-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/43-cart_default/crown-summit-backpack.jpg"
+      ],
+
+
+      "newArrival": false
+    },
+
+    {
+      "productId": "10",
+
+      "cat_id": 1,
+
+      "sub_subcat_id": 1005,
+
+      "subcat_id": 102,
+
+      "type": "Sofas-1-102-5",
+
+      "defaultPrice": 11.90,
+
+      "defaultImageUrl":
+        "https://demo.posthemes.com/pos_pataku/layout2/103-home_default/teton-pullover-hoo.jpg"
+      ,
+
+      "description": "Try Comfort With customizer",
+      "name": "Sprite Foam Yoga Brick",
+      "star": 2.5,
+      "review": 11,
+      "reference": "demo_3",
+      "brand": "Graphic corner",
+      "variants": [
+        { "size": "40x60cm", "price": 11.90 },
+        { "size": "60x90cm", "price": 22.80 },
+        { "size": "80x120cm", "price": 32.60 }
+      ],
+      "images": [
+        "https://demo.posthemes.com/pos_pataku/layout2/103-home_default/teton-pullover-hoo.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/40-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/41-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/42-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/43-cart_default/crown-summit-backpack.jpg"
+      ],
+
+
+      "newArrival": true
+    },
+
+    {
+      "productId":"11",
+
+      "cat_id": 1,
+
+      "sub_subcat_id": 1002,
+
+      "subcat_id": 102,
+
+      "type": "Sofas-1-102-2",
+
+      "defaultPrice": 60.60,
+
+      "defaultImageUrl": 
+        "https://demo.posthemes.com/pos_pataku/layout2/109-home_default/joust-duffle-bag1.jpg"
+      ,
+
+      "description": "Try Comfort With customizer",
+
+      "name": "Sprite Foam Yoga Brick",
+      "star": 2.5,
+      "review": 11,
+      "reference": "demo_3",
+      "brand": "Studio Design",
+      "variants": [
+        { "size": "40x60cm", "price": 60.60 },
+        { "size": "60x90cm", "price": 70.87 },
+        { "size": "80x120cm", "price": 80.67 }
+      ],
+      "images": [
+        "https://demo.posthemes.com/pos_pataku/layout2/109-home_default/joust-duffle-bag1.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/40-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/41-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/42-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/43-cart_default/crown-summit-backpack.jpg"
+      ],
+
+      "newArrival": false
+    },
+
+    {
+      "productId": "12",
+
+      "cat_id": 1,
+
+      "sub_subcat_id": 1004,
+
+      "subcat_id": 102,
+
+      "type": "Sofas-1-102-4",
+
+      "defaultPrice": 45.50,
+
+      "defaultImageUrl": 
+        "https://demo.posthemes.com/pos_pataku/layout2/115-home_default/rival-field-messenger1.jpg"
+      ,
+
+      "description": "Try Comfort With customizer",
+      "name": "Sprite Foam Yoga Brick",
+      "star": 2.5,
+      "review": 11,
+      "reference": "demo_3",
+      "brand": "Graphic corner",
+      "variants": [
+        { "size": "40x60cm", "price": 45.50 },
+        { "size": "60x90cm", "price": 56.30 },
+        { "size": "80x120cm", "price": 66.50 }
+      ],
+      "images": [
+        "https://demo.posthemes.com/pos_pataku/layout2/115-home_default/rival-field-messenger1.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/40-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/41-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/42-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/43-cart_default/crown-summit-backpack.jpg"
+      ],
+
+
+      "newArrival": true
+    },
+
+    {
+      "productId": "13",
+
+      "cat_id": 1,
+
+      "sub_subcat_id": 1003,
+
+      "subcat_id": 102,
+
+      "type": "Sofas-1-102-3",
+
+      "defaultPrice": 65.90,
+
+      "defaultImageUrl": 
+        "https://demo.posthemes.com/pos_pataku/layout2/121-home_default/rival-field-messenger.jpg"
+      ,
+
+      "description": "Try Comfort With customizer",
+      "name": "Sprite Foam Yoga Brick",
+      "star": 3.5,
+      "review": 10,
+      "reference": "demo_3",
+      "brand": "Studio Design",
+      "variants": [
+        { "size": "40x60cm", "price": 65.90 },
+        { "size": "60x90cm", "price": 75.90 },
+        { "size": "80x120cm", "price": 85.90 }
+      ],
+      "images": [
+        "https://demo.posthemes.com/pos_pataku/layout2/121-home_default/rival-field-messenger.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/40-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/41-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/42-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/43-cart_default/crown-summit-backpack.jpg"
+      ],
+
+
+      "newArrival": false
+    },
+
+    {
+      "productId": "14",
+
+      "cat_id": 1,
+
+      "sub_subcat_id": 1001,
+
+      "subcat_id": 103,
+
+      "type": "Sofas-1-103-1",
+
+      "defaultPrice": 69.07,
+
+      "defaultImageUrl": 
+        "https://demo.posthemes.com/pos_pataku/layout2/127-home_default/crown-summit-backpack.jpg"
+      ,
+
+      "description": "Try Comfort With customizer",
+      "name": "Sprite Foam Yoga Brick",
+      "star": 1.5,
+      "review": 61,
+      "reference": "demo_3",
+      "brand": "Graphic corner",
+      "variants": [
+        { "size": "40x60cm", "price": 69.07 },
+        { "size": "60x90cm", "price": 79.90 },
+        { "size": "80x120cm", "price": 80.56 }
+      ],
+      "images": [
+        "https://demo.posthemes.com/pos_pataku/layout2/127-home_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/40-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/41-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/42-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/43-cart_default/crown-summit-backpack.jpg"
+      ],
+
+
+      "newArrival": true
+    },
+
+    {
+      "productId": "15",
+
+      "cat_id": 1,
+
+      "sub_subcat_id": 1001,
+
+      "subcat_id": 103,
+
+      "type": "Sofas-1-103-1",
+
+      "defaultPrice": 75.90,
+
+      "defaultImageUrl": 
+        "https://demo.posthemes.com/pos_pataku/layout2/39-large_default/crown-summit-backpack.jpg"
+      ,
+
+      "description": "Try Comfort With customizer",
+      "name": "Sprite Foam Yoga Brick",
+      "star": 1.5,
+      "review": 91,
+      "reference": "demo_8",
+      "brand": "Studio Design",
+      "variants": [
+        { "size": "40x60cm", "price": 75.90 },
+        { "size": "60x90cm", "price": 85.76 },
+        { "size": "80x120cm", "price": 95.56 }
+      ],
+      "images": [
+        "https://demo.posthemes.com/pos_pataku/layout2/39-large_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/40-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/41-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/42-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/43-cart_default/crown-summit-backpack.jpg"
+      ],
+
+
+      "newArrival": false
+    },
+
+    {
+      "productId": "16",
+
+      "cat_id": 1,
+
+      "sub_subcat_id": 1002,
+
+      "subcat_id": 103,
+
+      "type": "Sofas-1-103-2",
+
+      "defaultPrice": 45.50,
+
+      "defaultImageUrl": 
+        "https://demo.posthemes.com/pos_pataku/layout2/29-home_default/rival-field-messenger.jpg"
+      ,
+
+      "description": "Try Comfort With customizer",
+      "name": "Sprite Foam Yoga Brick",
+      "star": 2.5,
+      "review": 11,
+      "reference": "demo_3",
+      "brand": "Graphic corner",
+      "variants": [
+        { "size": "40x60cm", "price": 45.50 },
+        { "size": "60x90cm", "price": 55.78 },
+        { "size": "80x120cm", "price": 65.89 }
+      ],
+      "images": [
+        "https://demo.posthemes.com/pos_pataku/layout2/29-home_default/rival-field-messenger.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/40-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/41-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/42-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/43-cart_default/crown-summit-backpack.jpg"
+      ],
+
+
+      "newArrival": true
+    },
+
+    {
+      "productId":"17",
+
+      "cat_id": 1,
+
+      "sub_subcat_id": 1003,
+
+      "subcat_id": 103,
+
+      "type": "Sofas-1-103-3",
+
+      "defaultPrice": 65.90,
+
+      "defaultImageUrl": 
+        "https://demo.posthemes.com/pos_pataku/layout2/39-large_default/crown-summit-backpack.jpg"
+      ,
+
+      "description": "Try Comfort With customizer",
+      "name": "Sprite Foam Yoga Brick",
+      "star": 2.5,
+      "review": 11,
+      "reference": "demo_8",
+      "brand": "Studio Design",
+      "variants": [
+        { "size": "40x60cm", "price": 65.90 },
+        { "size": "60x90cm", "price": 75.80 },
+        { "size": "80x120cm", "price": 85.50 }
+      ],
+      "images": [
+        "https://demo.posthemes.com/pos_pataku/layout2/39-large_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/40-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/41-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/42-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/43-cart_default/crown-summit-backpack.jpg"
+      ],
+
+
+      "newArrival": false
+    },
+
+    {
+      "productId":"18",
+
+      "cat_id": 2,
+
+      "sub_subcat_id": 1001,
+
+      "subcat_id": 101,
+
+      "type": "Sofas-2-101-1",
+
+      "defaultPrice": 60.60,
+
+      "defaultImageUrl": 
+        "https://demo.posthemes.com/pos_pataku/layout2/44-home_default/field-messenger.jpg"
+      ,
+
+      "description": "Regular fit, round neckline, long sleeves. 100% cotton, brushed inner side for extra comfort.",
+      "name": "Sprite Foam Yoga Brick",
+      "star": 4.5,
+      "review": 111,
+      "reference": "demo_8",
+      "brand": "Graphic corner",
+      "variants": [
+        { "size": "40x60cm", "price": 60.60 },
+        { "size": "60x90cm", "price": 70.78 },
+        { "size": "80x120cm", "price": 80.90 }
+      ],
+      "images": [
+        "https://demo.posthemes.com/pos_pataku/layout2/44-home_default/field-messenger.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/40-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/41-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/42-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/43-cart_default/crown-summit-backpack.jpg"
+      ],
+
+
+      "newArrival": true
+    },
+
+    {
+      "productId": "19",
+
+      "cat_id": 2,
+
+      "sub_subcat_id": 1002,
+
+      "subcat_id": 101,
+
+      "type": "Sofas-2-101-2",
+
+      "defaultPrice": 45.50,
+
+      "defaultImageUrl": 
+        "https://demo.posthemes.com/pos_pataku/layout2/59-home_default/affirm-water-bottle.jpg"
+      ,
+
+      "description": "Regular fit, round neckline, long sleeves. 100% cotton, brushed inner side for extra comfort.",
+      "name": "Sprite Foam Yoga Brick",
+      "star": 2.5,
+      "review": 11,
+      "reference": "demo_3",
+      "brand": "Studio Design",
+      "variants": [
+        { "size": "40x60cm", "price": 45.50 },
+        { "size": "60x90cm", "price": 55.89 },
+        { "size": "80x120cm", "price": 65.76 }
+      ],
+      "images": [
+        "https://demo.posthemes.com/pos_pataku/layout2/59-home_default/affirm-water-bottle.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/40-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/41-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/42-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/43-cart_default/crown-summit-backpack.jpg"
+      ],
+
+
+      "newArrival": false
+    },
+
+    {
+      "productId": "20",
+
+      "cat_id": 2,
+
+      "sub_subcat_id": 1003,
+
+      "subcat_id": 101,
+
+      "type": "Sofas-2-101-3",
+
+      "defaultPrice": 50.30,
+
+      "defaultImageUrl": 
+        "https://demo.posthemes.com/pos_pataku/layout2/64-home_default/dual-handle-cardio-ball.jpg"
+      ,
+
+      "description": "Regular fit, round neckline, long sleeves. 100% cotton, brushed inner side for extra comfort.",
+      "name": "Sprite Foam Yoga Brick",
+      "star": 2.5,
+      "review": 11,
+      "reference": "demo_3",
+      "brand": "Graphic corner",
+      "variants": [
+        { "size": "40x60cm", "price": 50.30},
+        { "size": "60x90cm", "price": 60.70 },
+        { "size": "80x120cm", "price": 70.45 }
+      ],
+      "images": [
+        "https://demo.posthemes.com/pos_pataku/layout2/64-home_default/dual-handle-cardio-ball.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/40-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/41-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/42-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/43-cart_default/crown-summit-backpack.jpg"
+      ],
+
+
+      "newArrival": true
+    },
+
+    {
+      "productId": "21",
+
+      "cat_id": 2,
+
+      "sub_subcat_id": 1004,
+
+      "subcat_id": 101,
+
+      "type": "Sofas-2-101-4",
+
+      "defaultPrice": 75.90,
+
+      "defaultImageUrl": 
+        "https://demo.posthemes.com/pos_pataku/layout2/69-home_default/go-get-r-pushup-grips.jpg"
+      ,
+
+      "description": "Regular fit, round neckline, long sleeves. 100% cotton, brushed inner side for extra comfort.",
+      "name": "Sprite Foam Yoga Brick",
+      "star": 2.5,
+      "review": 11,
+      "reference": "demo_3",
+      "brand": "Studio Design",
+      "variants": [
+        { "size": "40x60cm", "price": 75.90 },
+        { "size": "60x90cm", "price": 85.87 },
+        { "size": "80x120cm", "price": 95.45 }
+      ],
+      "images": [
+        "https://demo.posthemes.com/pos_pataku/layout2/69-home_default/go-get-r-pushup-grips.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/40-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/41-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/42-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/43-cart_default/crown-summit-backpack.jpg"
+      ],
+
+
+      "newArrival": false
+    },
+
+    {
+      "productId": "22",
+
+      "cat_id": 2,
+
+      "sub_subcat_id": 1005,
+
+      "subcat_id": 101,
+
+      "type": "Sofas-2-101-5",
+
+      "defaultPrice":11.90,
+
+      "defaultImageUrl": 
+        "https://demo.posthemes.com/pos_pataku/layout2/81-home_default/rival-field-messenger.jpg"
+      ,
+
+      "description": "Regular fit, round neckline, long sleeves. 100% cotton, brushed inner side for extra comfort.",
+      "name": "Sprite Foam Yoga Brick",
+      "star": 2.5,
+      "review": 11,
+      "reference": "demo_3",
+      "brand": "Graphic corner",
+      "variants": [
+        { "size": "40x60cm", "price": 11.90 },
+        { "size": "60x90cm", "price": 21.87 },
+        { "size": "80x120cm", "price": 31.98 }
+      ],
+      "images": [
+        "https://demo.posthemes.com/pos_pataku/layout2/29-home_default/rival-field-messenger.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/40-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/41-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/42-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/43-cart_default/crown-summit-backpack.jpg"
+      ],
+
+
+      "newArrival": true
+    },
+
+    {
+      "productId": "23",
+
+      "cat_id": 2,
+
+      "sub_subcat_id": 1001,
+
+      "subcat_id": 102,
+
+      "type": "Armchair-2-102-1",
+
+      "defaultPrice": 60.60,
+
+      "defaultImageUrl": 
+        "https://demo.posthemes.com/pos_pataku/layout2/91-home_default/aim-analog.jpg"
+      ,
+
+      "description": "Try Comfort With customizer",
+      "name": "Sprite Foam Yoga Brick",
+      "star": 4.5,
+      "review": 131,
+      "reference": "demo_9",
+      "brand": "Studio Design",
+      "variants": [
+        { "size": "40x60cm", "price": 60.60 },
+        { "size": "60x90cm", "price": 70.78 },
+        { "size": "80x120cm", "price": 80.56 }
+      ],
+      "images": [
+        "https://demo.posthemes.com/pos_pataku/layout2/91-home_default/aim-analog.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/40-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/41-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/42-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/43-cart_default/crown-summit-backpack.jpg"
+      ],
+
+
+      "newArrival": false
+    },
+
+    {
+      "productId": "24",
+
+      "cat_id": 2,
+
+      "sub_subcat_id": 1002,
+
+      "subcat_id": 102,
+
+      "type": "Sofas-2-102-2",
+
+      "defaultPrice": 46.28,
+
+      "defaultImageUrl": 
+        "https://demo.posthemes.com/pos_pataku/layout2/93-home_default/crown-summit-backpack4.jpg"
+      ,
+
+      "description": "Try Comfort With customizer",
+      "name": "Sprite Foam Yoga Brick",
+      "star": 2.5,
+      "review": 11,
+      "reference": "demo_9",
+      "brand": "Graphic corner",
+      "variants": [
+        { "size": "40x60cm", "price": 46.28 },
+        { "size": "60x90cm", "price": 56.89 },
+        { "size": "80x120cm", "price": 66.82 }
+      ],
+      "images": [
+        "https://demo.posthemes.com/pos_pataku/layout2/93-home_default/crown-summit-backpack4.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/40-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/41-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/42-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/43-cart_default/crown-summit-backpack.jpg"
+      ],
+
+
+      "newArrival": true
+    },
+
+    {
+      "productId": "25",
+
+      "cat_id": 2,
+
+      "sub_subcat_id": 1003,
+
+      "subcat_id": 102,
+
+      "type": "Armchair-2-102-3",
+
+      "defaultPrice": 69.07,
+
+      "defaultImageUrl": 
+        "https://demo.posthemes.com/pos_pataku/layout2/103-home_default/teton-pullover-hoo.jpg"
+      ,
+
+      "description": "Try Comfort With customizer",
+      "name": "Sprite Foam Yoga Brick",
+      "star": 4.5,
+      "review": 191,
+      "reference": "demo_3",
+      "brand": "Graphic corner",
+      "variants": [
+        { "size": "40x60cm", "price": 69.07 },
+        { "size": "60x90cm", "price": 79.01 },
+        { "size": "80x120cm", "price": 89.02 }
+      ],
+      "images": [
+        "https://demo.posthemes.com/pos_pataku/layout2/103-home_default/teton-pullover-hoo.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/40-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/41-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/42-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/43-cart_default/crown-summit-backpack.jpg"
+      ],
+
+
+      "newArrival": false
+    },
+
+    {
+      "productId": "26",
+
+      "cat_id": 2,
+
+      "sub_subcat_id": 1004,
+
+      "subcat_id": 102,
+
+      "type": "Sofas-2-102-4",
+
+      "defaultPrice": 65.90,
+
+      "defaultImageUrl": 
+        "https://demo.posthemes.com/pos_pataku/layout2/109-home_default/joust-duffle-bag1.jpg"
+      ,
+
+      "description": "Try Comfort With customizer",
+      "name": "Sprite Foam Yoga Brick",
+      "star": 2.5,
+      "review": 11,
+      "reference": "demo_3",
+      "brand": "Studio Design",
+      "variants": [
+        { "size": "40x60cm", "price": 65.90 },
+        { "size": "60x90cm", "price": 75.90 },
+        { "size": "80x120cm", "price": 85.65 }
+      ],
+      "images": [
+        "https://demo.posthemes.com/pos_pataku/layout2/109-home_default/joust-duffle-bag1.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/40-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/41-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/42-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/43-cart_default/crown-summit-backpack.jpg"
+      ],
+
+
+      "newArrival": true
+    },
+
+    {
+      "productId": "27",
+
+      "cat_id": 2,
+
+      "sub_subcat_id": 1005,
+
+      "subcat_id": 102,
+
+      "type": "Sofas-2-102-5",
+
+      "defaultPrice": 60.60,
+
+      "defaultImageUrl": [
+        "https://demo.posthemes.com/pos_pataku/layout2/115-home_default/rival-field-messenger1.jpg"
+      ],
+
+      "description": "Try Comfort With customizer",
+      "name": "Sprite Foam Yoga Brick",
+      "star": 2.5,
+      "review": 11,
+      "reference": "demo_3",
+      "brand": "Graphic corner",
+      "variants": [
+        { "size": "40x60cm", "price": 60.60 },
+        { "size": "60x90cm", "price": 70.90},
+        { "size": "80x120cm", "price": 80.60 }
+      ],
+      "images": [
+        "https://demo.posthemes.com/pos_pataku/layout2/115-home_default/rival-field-messenger1.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/40-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/41-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/42-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/43-cart_default/crown-summit-backpack.jpg"
+      ],
+
+
+      "newArrival": false
+    },
+
+    {
+      "productId": "28",
+
+      "cat_id": 2,
+
+      "sub_subcat_id": 1001,
+
+      "subcat_id": 103,
+
+      "type": "Sofas-2-103-1",
+
+      "defaultPrice": 50.30,
+
+      "defaultImageUrl": 
+        "https://demo.posthemes.com/pos_pataku/layout2/121-home_default/rival-field-messenger.jpg"
+      ,
+
+      "description": "Try Comfort With customizer",
+      "name": "Sprite Foam Yoga Brick",
+      "star": 2.5,
+      "review": 181,
+      "reference": "demo_3",
+      "brand": "Studio Design",
+      "variants": [
+        { "size": "40x60cm", "price": 50.30 },
+        { "size": "60x90cm", "price": 60.20 },
+        { "size": "80x120cm", "price": 70.10 }
+      ],
+      "images": [
+        "https://demo.posthemes.com/pos_pataku/layout2/121-home_default/rival-field-messenger.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/40-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/41-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/42-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/43-cart_default/crown-summit-backpack.jpg"
+      ],
+
+
+      "newArrival": true
+    },
+
+    {
+      "productId": "29",
+
+      "cat_id": 2,
+
+      "sub_subcat_id": 1002,
+
+      "subcat_id": 103,
+
+      "type": "Sofas-2-103-2",
+
+      "defaultPrice": 11.90,
+
+      "defaultImageUrl": 
+        "https://demo.posthemes.com/pos_pataku/layout2/127-home_default/crown-summit-backpack.jpg"
+      ,
+
+      "description": "Try Comfort With customizer",
+      "name": "Sprite Foam Yoga Brick",
+      "star": 2.5,
+      "review": 11,
+      "reference": "demo_3",
+      "brand": "Graphic corner",
+      "variants": [
+        { "size": "40x60cm", "price": 11.90 },
+        { "size": "60x90cm", "price": 21.87 },
+        { "size": "80x120cm", "price": 31.23 }
+      ],
+      "images": [
+        "https://demo.posthemes.com/pos_pataku/layout2/127-home_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/40-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/41-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/42-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/43-cart_default/crown-summit-backpack.jpg"
+      ],
+
+
+      "newArrival": false
+    },
+
+    {
+      "productId": "30",
+
+      "cat_id": 2,
+
+      "sub_subcat_id": 1003,
+
+      "subcat_id": 103,
+
+      "type": "Sofas-2-103-3",
+
+      "defaultPrice": 60.60,
+
+      "defaultImageUrl": 
+        "https://demo.posthemes.com/pos_pataku/layout2/39-large_default/crown-summit-backpack.jpg"
+      ,
+
+      "description": "Try Comfort With customizer",
+      "name": "Sprite Foam Yoga Brick",
+      "star": 2.5,
+      "review": 11,
+      "reference": "demo_3",
+      "brand": "Studio Design",
+      "variants": [
+        { "size": "40x60cm", "price": 60.60 },
+        { "size": "60x90cm", "price": 70.31 },
+        { "size": "80x120cm", "price": 80.98 }
+      ],
+      "images": [
+        "https://demo.posthemes.com/pos_pataku/layout2/39-large_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/40-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/41-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/42-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/43-cart_default/crown-summit-backpack.jpg"
+      ],
+
+
+      "newArrival": true
+    },
+
+    {
+      "productId": "31",
+
+      "cat_id": 2,
+
+      "sub_subcat_id": 1001,
+
+      "subcat_id": 101,
+
+      "type": "Sofas-2-101-1",
+
+      "defaultPrice": 46.28,
+
+      "defaultImageUrl": 
+        "https://demo.posthemes.com/pos_pataku/layout2/127-home_default/crown-summit-backpack.jpg"
+      ,
+
+      "description": "Try Comfort With customizer--",
+      "name": "Sprite Foam Yoga Brick",
+      "star": 2.5,
+      "review": 11,
+      "reference": "demo_3",
+      "brand": "Graphic corner",
+      "variants": [
+        { "size": "40x60cm", "price": 46.28 },
+        { "size": "60x90cm", "price": 56.24 },
+        { "size": "80x120cm", "price": 66.22 }
+      ],
+      "images": [
+        "https://demo.posthemes.com/pos_pataku/layout2/127-home_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/40-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/41-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/42-cart_default/crown-summit-backpack.jpg",
+        "https://demo.posthemes.com/pos_pataku/layout2/43-cart_default/crown-summit-backpack.jpg"
+      ],
+
+
+      "newArrival": false
+    },
+
+    {
+      "productId": "32",
+
+      "cat_id": 2,
+
+      "sub_subcat_id": 1001,
+
+      "subcat_id": 101,
+
+      "type": "Sofas-2-101-1",
+
+      "defaultPrice": 46.28,
+
+      "defaultImageUrl": 
+        "https://demo.posthemes.com/pos_pataku/layout2/39-large_default/crown-summit-backpack.jpg"
+
+      
+      ,
+
+      "description": "Try Comfort With customizer-working on",
+      "name": "Sprite Foam Yoga Brick",
+      "star": 2.5,
+      "review": 11,
+      "reference": "demo_3",
+      "brand": "Studio Design",
+      "variants": [
+        { "size": "40x60cm", "price": 46.20 },
+        { "size": "60x90cm", "price": 56.35 },
+        { "size": "80x120cm", "price": 66.87 }
+      ],
+      "images": [
+        "https://demo.posthemes.com/pos_pataku/layout2/39-large_default/crown-summit-backpack.jpg",
+
+        "https://demo.posthemes.com/pos_pataku/layout2/44-home_default/field-messenger.jpg",
+
+        "https://demo.posthemes.com/pos_pataku/layout2/44-home_default/field-messenger.jpg",
+
+        "https://demo.posthemes.com/pos_pataku/layout2/44-home_default/field-messenger.jpg",
+
+        "https://demo.posthemes.com/pos_pataku/layout2/44-home_default/field-messenger.jpg"
+      ],
+
+
+      "newArrival": true
+    }
+  ],
+  "blog": [
+    {
+        "id":"1",
+      "title": "Try comfort work with customizer",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adminim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in rep rehenderit. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiumod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adminim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in rep rehenderit. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiumod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adminim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in rep rehenderit. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiumod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor cididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adminim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in rep rehenderit. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiumod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adminim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in rep rehenderit. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiumod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adminim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in rep rehenderit. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiumod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "date": "Jul 22TH, 2018",
+      "author": "Demo Posthemes",
+      "category": "Fashion",
+      "imageUrl": "https://demo.posthemes.com/pos_pataku/layout2/modules/xipblog/img/large-2.jpg"
+    },
+    {
+        "id":"2",
+      "title": "Typi non habent claritatem insitam",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adminim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in rep rehenderit. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiumod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adminim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in rep rehenderit. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiumod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adminim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in rep rehenderit. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiumod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor cididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adminim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in rep rehenderit. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiumod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adminim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in rep rehenderit. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiumod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adminim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in rep rehenderit. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiumod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "date": "Jul 22TH, 2018",
+      "author": "Demo Posthemes",
+      "category": "Fashion ",
+      "imageUrl": "https://demo.posthemes.com/pos_pataku/layout2/modules/xipblog/img/large-3.jpg"
+    },
+    {
+        "id":"3",
+      "title": "Eodem modo typi qui nunc nobis",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adminim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in rep rehenderit. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiumod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adminim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in rep rehenderit. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiumod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adminim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in rep rehenderit. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiumod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor cididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adminim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in rep rehenderit. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiumod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adminim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in rep rehenderit. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiumod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adminim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in rep rehenderit. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiumod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "date": "Jul 22TH, 2018",
+      "author": "Demo Posthemes",
+      "category": " Fashion",
+      "imageUrl": "https://demo.posthemes.com/pos_pataku/layout2/modules/xipblog/img/large-4.jpg "
+    },
+    {
+        "id":"4",
+      "title": "Claritas est etiam processus dynamicus",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adminim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in rep rehenderit. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiumod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adminim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in rep rehenderit. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiumod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adminim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in rep rehenderit. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiumod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor cididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adminim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in rep rehenderit. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiumod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adminim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in rep rehenderit. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiumod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adminim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in rep rehenderit. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiumod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "date": "Jul 22TH, 2018",
+      "author": "Demo Posthemes",
+      "category": "Fashion ",
+      "imageUrl": "https://demo.posthemes.com/pos_pataku/layout2/modules/xipblog/img/large-1.jpg "
+    }
+  ],
+  "featuredCategories": [
+    {
+      "id": 101,
+
+      "name": "Living Chairs",
+
+      "imageUrl": "https://demo.posthemes.com/pos_pataku/layout2/modules/poslistcategories/images/be31a78f9f3386a9e36badb0aaddde26fb62a468_lit1_2.jpg",
+
+      "items": [
+        { "itemId": 201, "itemName": "Sofa" },
+
+        { "itemId": 202, "itemName": "Arm Chairs" },
+
+        { "itemId": 203, "itemName": "Dining Chair & Benches" },
+
+        { "itemId": 204, "itemName": "Desk Chairs" }
+      ]
+    },
+    {
+      "id": 102,
+
+      "name": "Storage",
+
+      "imageUrl": "https://demo.posthemes.com/pos_pataku/layout2/modules/poslistcategories/images/58e8f46a6e63a572881d03a3b02c0748c1994870_lit3_2.jpg",
+
+      "items": [
+        { "itemId": 201, "itemName": "Chair & Sofas" },
+
+        { "itemId": 202, "itemName": "Tables" },
+
+        { "itemId": 203, "itemName": "Sets" },
+
+        { "itemId": 204, "itemName": "Loungers" }
+      ]
+    },
+    {
+      "id": 103,
+
+      "name": "Dining Sets",
+
+      "imageUrl": "https://demo.posthemes.com/pos_pataku/layout2/modules/poslistcategories/images/b9a4614e601f7012b8f9cbf85c6ecccedeb15833_lit5_2.jpg",
+
+      "items": [
+        { "itemId": 201, "itemName": "Hoodies" },
+
+        { "itemId": 202, "itemName": "Wedges" },
+
+        { "itemId": 203, "itemName": "Living Tables" },
+
+        { "itemId": 204, "itemName": "Regular Beds" }
+      ]
+    },
+    {
+      "id": 104,
+
+      "name": "Sofas",
+      "imageUrl": "https://demo.posthemes.com/pos_pataku/layout2/modules/poslistcategories/images/a42130eb2dce0034191ba4efba20df3a3da62954_lit2_2.jpg",
+
+      "items": [
+        { "itemId": 201, "itemName": "Dinning Table" },
+
+        { "itemId": 202, "itemName": "Dinning Chairs" },
+
+        { "itemId": 203, "itemName": "Side Boards" },
+
+        { "itemId": 204, "itemName": "Cofee Tables" }
+      ]
+    },
+    {
+      "id": 105,
+
+      "name": "Dining Tables",
+
+      "imageUrl": "https://demo.posthemes.com/pos_pataku/layout2/modules/poslistcategories/images/1adb60c026535519b38ad3d07fc3913006b7b21f_lit4_2.jpg",
+
+      "items": [
+        { "itemId": 201, "itemName": "Crochet" },
+
+        { "itemId": 202, "itemName": "Sweaters" },
+
+        { "itemId": 203, "itemName": "Dinning Chairs" },
+
+        { "itemId": 204, "itemName": "Loungers" }
+      ]
+    },
+
+    {
+      "id": 106,
+
+      "name": "Dining Chairs",
+
+      "imageUrl": "https://demo.posthemes.com/pos_pataku/layout2/modules/poslistcategories/images/a931039557bbbd7359e3dc52cf4c7b2f5f349152_lit6_2.jpg",
+
+      "items": [
+        { "itemId": 201, "itemName": "Regular Beds" },
+
+        { "itemId": 202, "itemName": "Sleight" },
+
+        { "itemId": 203, "itemName": "Best Living" }
+      ]
+    }
+]
+
+  
+}

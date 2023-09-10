@@ -1,0 +1,30 @@
+#blog_row{
+    display: flex;
+    flex-direction: row;
+    overflow-x: hidden;
+    height: 100%;
+   }
+   .blog-heading{
+    display: flex;
+    flex-direction: row;
+    height: auto;
+    justify-content: center;
+    margin-top: 1rem;
+    justify-content: space-between;
+}
+
+.blog_details{
+    display: flex;
+    flex-direction: row;
+    margin-top: 1rem;
+}
+
+.about-us{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.about-us-col{
+    display: flex;
+    flex-direction: column;
+}

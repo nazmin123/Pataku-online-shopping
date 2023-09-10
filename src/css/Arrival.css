@@ -1,0 +1,63 @@
+.arrival-image{
+    display: flex;
+    flex-direction: column;
+  }
+  .newArrival-container{
+    display: flex;
+    flex-direction: column;
+    height: 600px;
+    position: relative;
+   
+  }
+  #newArrival_row{
+    display: flex;
+    flex-direction: row;
+    overflow-x: hidden;
+  
+    max-width: 100%;
+ 
+   }
+  .newArrival_items{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    
+   
+  }
+.newArrival-subheading{
+  max-width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  margin-bottom: 1rem;
+  align-items: center;
+}
+  .button-container{
+    display: flex;
+    flex-direction: row-reverse;
+   
+   
+  }
+  .newArrival_Banner_img{
+    position: absolute;
+  
+    bottom: 0px;
+    width: 100%;
+    margin: 1rem;
+  }
+  .newArrival_Banner_img img{
+    width: 100%;
+    height: 150px;
+  }
+  .newArrival_Banner_img2{
+    position: absolute;
+    border: 1px solid red;
+    bottom:150px;
+    width: 100%;
+  }
+  .newArrival_Banner_img2 img{
+    width: 100%;
+    height: 150px;
+  }

@@ -1,0 +1,85 @@
+.Dinning_main-container{
+    display: flex;
+    flex-direction: column;
+}
+.dinning-heading{
+    display: flex;
+    max-width: 100%;
+    flex-direction: row;
+     justify-content: center;
+     height: auto;
+    margin-top: 1rem;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+.dinning-item{
+    display: flex;
+    flex-direction: row;
+    margin-left: 1rem;
+ 
+    margin-top: 1rem;
+    justify-content: space-between;
+}
+
+
+
+
+
+.dinning-item .grid-two-col {
+  display: grid;
+  grid-template-columns: 3fr,1fr;
+}
+.card-img-top {
+    height: 100%;
+    width: auto;
+    object-fit: cover;
+   
+}
+.text{
+    font-size:small;
+}
+.hr {
+    width: 15%;
+    height: 1px;
+    border: 0 none;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: black;
+
+  }
+
+  .btn-custom {
+    padding: 2px;
+    font-size:1px;
+  }
+  /* .col-8{
+    width: 100%;
+  } */
+
+
+  @media (max-width: 1000px) {
+    .dinning-item{
+        display: flex;
+       max-width: 100%;
+        height: auto;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+       
+    }
+
+    .image-container img{
+        display: none;
+    }
+    /* .col-4{
+      display: none;
+     
+  
+  } */
+
+  }
+
+

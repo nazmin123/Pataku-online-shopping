@@ -1,0 +1,8 @@
+#slide{
+    display: flex;
+    flex-direction: column;
+    overflow-y: hidden;
+    height: 400;
+    width: 150;
+    /* sx={{ width: 150, height: 400}} */
+   }

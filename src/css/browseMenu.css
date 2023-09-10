@@ -1,0 +1,13 @@
+.browse_row{
+    display: flex;
+    flex-direction: row;
+    overflow: auto;
+    height: 100%;
+   }
+   .browse_col{
+    display: flex;
+    flex-direction:column;
+  
+    height: 100%;
+   }
+   
